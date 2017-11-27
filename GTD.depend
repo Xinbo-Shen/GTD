@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1511712510 source:f:\workspace\gtd\·¬ÇÑÄÖÖÓÊÔĞĞ1.0.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1511711960 source:f:\workspace\gtd\·¬ÇÑÄÖÖÓÊÔĞĞ2.0.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1511713372 source:f:\workspace\gtd\·¬ÇÑÄÖÖÓ3.0.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"PlayMusic.c"
+
+1511711960 f:\workspace\gtd\·¬ÇÑÄÖÖÓÊÔĞĞ2.0.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1511713372 source:f:\workspace\gtd\playmusic.c
+
+1511713372 f:\workspace\gtd\playmusic.c
+
